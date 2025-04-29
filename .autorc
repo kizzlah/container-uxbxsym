@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "kizzlah",
+  "repo": "container-uxbxsym",
+  "name": "kizzlah",
+  "email": "kyleclements1@dcc.edu",
+}
